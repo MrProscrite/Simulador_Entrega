@@ -12,6 +12,12 @@
   <a href="https://github.com/MrProscrite/Simulador_Entrega">
     <img src=".images/logo.png" alt="Logo" width="99.04" height="63.62">
   </a>
+  
+  <div style="display: inline_block" align="center">
+    <img align="center" alt="Proscrite-Go" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+    <img align="center" alt="Proscrite-Kafka" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
+    <img align="center" alt="Proscrite-Docker" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  </div>
 
 <h3 align="center">Simulador de Posições</h3>
 
@@ -66,17 +72,9 @@ A aplicação recebe as mensagens do Producer, que é quem diz qual entregador v
 
 ## Tecnologias utilizadas
 
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Proscrite-Go" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Proscrite-Kafka" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
-  <img align="center" alt="Proscrite-Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <br>
-  <br>
-</div>
-
-* Golang
-* Kafka
-* Docker
+* [Golang](https://go.dev/)
+* [Kafka](https://kafka.apache.org/)
+* [Docker](https://www.docker.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
